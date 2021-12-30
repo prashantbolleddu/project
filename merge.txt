@@ -1,5 +1,10 @@
 hi this is merge file
+
 Now i am adding new text here
 ramu
 Prashanth
 aadi
+
+Bharth
+kalyan
+sathish
